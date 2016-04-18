@@ -1,0 +1,26 @@
+=== Unboxed Consulting
+Software Developer ( May 2013 – July 2015 )
+
+==== Prodigy
+
+Prodigy Finance provides loans to talented international students at top business schools, funded by a community of alumni and other investors. As part of a team, we assisted the Prodigy Finance developers in automating the payment process.
+
+==== Julie's Bicycle
+
+Julie's Bicycle is a UK charity that has developed a Ruby on Rails application named igtools for recording, calculating and benchmarking CO2 emissions for Events, Productions, Festivals etc. I was the lead developer in a 3-man team to add a dashboard for licensees. The dashboard gives a detailed overview of how the CO2 emissions are affected by the data collected from the organisations’ activities.
+
+====  Contiki
+
+Since I started at Unboxed I have worked primarily on the website application that powers Contiki Holidays. Most of the work that I have done has been enhancing the application and stabilising functionality of this Ruby on Rails application.
+
+==== Enhanced Content Hub
+
+I worked in a 2-man team to add integration to Contiki for sharing content across the TravCorp companies.
+
+==== Trip Managers
+
+I worked in a 2-man team to add integration with Plansheet for adding Contiki trip managers to their tour's social groups.
+
+==== Ruby on Rails Upgrade
+
+I was the main contributor for upgrading the Contiki application from Rails 2 to Rails 3. Contiki was one of the early adopters of Rails, with the application under continuous development since 2006.

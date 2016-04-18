@@ -1,0 +1,9 @@
+=== Framework One
+
+I was one of the first developers to start at Framework One with the vision to build automation framework and tools for the Bridge Wealth group's developer teams.
+
+Responsibilities included:
+
+[circle]
+* Building automation tools in .Net and Visual Studio
+* Collaborating with software teams to build and improve the framework

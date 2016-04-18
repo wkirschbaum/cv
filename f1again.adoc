@@ -1,0 +1,12 @@
+=== Framework One
+Scrum Master and Software Developer
+( April 2012 - April 2013 )
+
+Framework One were responsible for building tools and frameworks for the Bridge Wealth group's developer teams. We relied heavily on Microsoft technologies and automation.
+
+Responsibilities included:
+
+[circle]
+* Software design and implementation
+* Requirement gathering
+* Facilitating team meetings

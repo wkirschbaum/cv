@@ -1,9 +1,12 @@
 require 'sinatra'
 require 'asciidoctor'
 
-content = '_Zen_ in the art of writing http://asciidoctor.org[AsciiDoc].'
-cv_html = Asciidoctor.convert content, header_footer: true, safe: :safe
+def html_content
+  return @html_content if @html_content && settings.environment == :production
+  content = File.read('./main.adoc')
+  @html_content = Asciidoctor.convert content, header_footer: true, safe: :safe
+end
 
 get '/' do
-  cv_html
+  html_content
 end

@@ -1,0 +1,36 @@
+= Curriculum Vitae
+Wilhelm Kirschbaum <wkirschbaum@gmail.com>
+:doctype: article
+:source-highlighter: coderay
+:listing-caption: Listing
+
+== Skill
+
+Language and frameworks I am confortable with
+
+[circle]
+* Ruby, Go, C#, Javascript
+* Ruby On Rails, JQuery, .NET MVC, RSpec, Angular
+* MySQL, Postgres, MSSQL
+
+Language and frameworks I am familiar with
+
+[circle]
+* Elixir, Clojure, R, Scheme, Python
+* Phoenix, React, Polymer, Django
+
+== Experience
+
+include::snapscan.adoc[]
+
+include::unboxed.adoc[]
+
+include::f1again.adoc[]
+
+include::yellowtail.adoc[]
+
+include::f1.adoc[]
+
+== Education
+
+include::education.adoc[]

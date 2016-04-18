@@ -1,0 +1,11 @@
+=== Yellowtail Software
+
+I worked with a distributed team from South Africa, Netherlands and India on MOOR. MOOR is a roadwork management application that manages road works for a large portion of the Netherland’s municipalities. The project was a 4-tier application running on Asp.Net and MSSQL using the Google Maps API.
+
+Responsibilities included:
+
+[circle]
+* Software design and implementation
+* Driving automated testing
+* Planning and releasing new features
+* Skills development
