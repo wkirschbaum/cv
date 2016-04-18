@@ -1,2 +1,4 @@
 === FireID Payments (SnapScan)
 Software Developer ( July 2015 – present )
+
+I am currently part of a small development team working on the SnapScan product.
