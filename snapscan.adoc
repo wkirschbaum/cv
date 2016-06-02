@@ -2,3 +2,13 @@
 Software Developer ( July 2015 – present )
 
 I am currently part of a small development team working on the SnapScan product.
+
+Responsibilities include:
+
+[circle]
+* Improve, enhance and maintain the mobile applications.
+* Improve, enhance and maintain the backend services and integrations.
+* Improve, enhance and maintain the software infrastructure.
+* Be on support for any unexpected technical issues.
+* Improve the workflow for the customer support team.
+ 

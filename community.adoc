@@ -1,0 +1,13 @@
+=== RailsBridge
+https://railsbridgecapetown.org/
+
+I am a regular teacher at RailsBridge Cape Town.
+
+=== Cape Town Ruby Brigade
+
+I am currently the organiser of Cape Town Ruby Brigade.
+
+=== RouteTractor
+A simple route spec generator. https://rubygems.org/gems/route_tractor
+
+I am the main contributor to a ruby gem called route_tractor.

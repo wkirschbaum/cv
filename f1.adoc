@@ -1,4 +1,5 @@
-=== Framework One
+=== FrameworkOne
+Software Developer (Jan 2009 - Dec 2011)
 
 I was one of the first developers to start at Framework One with the vision to build automation framework and tools for the Bridge Wealth group's developer teams.
 
