@@ -7,6 +7,4 @@ Responsibilities included:
 
 [circle]
 * Software design and implementation
-* Driving automated testing
 * Planning and releasing new features
-* Skills development
