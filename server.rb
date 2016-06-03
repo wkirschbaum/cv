@@ -2,10 +2,9 @@ require 'sinatra'
 require 'asciidoctor'
 require 'asciidoctor-pdf'
 
-content = File.read('./main.adoc')
-html_content = Asciidoctor.convert content, header_footer: true, safe: :safe
-
 get '/wilhelm' do
+  content = File.read('./main.adoc')
+  html_content = Asciidoctor.convert content, header_footer: true, safe: :safe
   html_content
 end
 

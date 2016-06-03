@@ -3,7 +3,7 @@ Software Developer ( May 2013 – July 2015 )
 
 ==== Julie's Bicycle
 
-Julie's Bicycle is a UK charity that has developed a Ruby on Rails application named igtools for recording, calculating and benchmarking CO2 emissions for Events, Productions, Festivals etc. I was the lead developer in a 3-man team to add a dashboard for licensees. The dashboard gives a detailed overview of how the CO2 emissions are affected by the data collected from the organisation's activities.
+Julie's Bicycle is a UK charity that has developed a Ruby on Rails application named igtools for recording, calculating and benchmarking CO2 emissions for Events, Productions, Festivals etc. I was the lead developer in a 3-person team to add a dashboard for licensees. The dashboard gives a detailed overview of how the CO2 emissions are affected by the data collected from the organisation's activities.
 
 ====  Contiki
 
@@ -11,11 +11,11 @@ Since I started at Unboxed I have worked primarily on the website application th
 
 ==== Contiki | Enhanced Content Hub
 
-I worked in a 2-man team to add integration to Contiki for sharing content across the TravCorp companies.
+I worked in a 2-person team to add integration to Contiki for sharing content across the TravCorp companies.
 
 ==== Contiki | Trip Managers
 
-I worked in a 2-man team to add integration with Plansheet for adding Contiki trip managers to their tour's social groups.
+I worked in a 2-person team to add integration with Plansheet for adding Contiki trip managers to their tour's social groups.
 
 ==== Contiki | Ruby on Rails Upgrade
 
