@@ -3,6 +3,7 @@ Wilhelm Kirschbaum <wkirschbaum@gmail.com>
 :doctype: article
 :source-highlighter: coderay
 :listing-caption: Listing
+:nofooter:
 
 == About Me
 
