@@ -1,7 +1,7 @@
 === FireID Payments (SnapScan)
-Software Developer ( July 2015 – present )
+Software Developer ( July 2015 – August 2016 )
 
-I am currently part of a small development team working on the SnapScan product.
+I was part of a small development team, which built and maintended all software which powered the SnapScan application.
 
 Responsibilities include:
 
@@ -11,4 +11,3 @@ Responsibilities include:
 * Improve, enhance and maintain the software infrastructure.
 * Be on support for any unexpected technical issues.
 * Improve the workflow for the customer support team.
- 

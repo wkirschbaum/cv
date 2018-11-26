@@ -14,21 +14,30 @@ include::about.adoc[]
 Language, tools and frameworks I am comfortable with
 
 [circle]
-* Ruby, Go, C#, Javascript
-* Ruby On Rails, JQuery, .NET MVC, RSpec, Angular
+* Ruby, Go, C#, Javascript, Elixir, Elisp
+* Ruby On Rails, Roda, RSpec, Angular, Phoenix
 * MySQL, Postgres, MSSQL
 
 Language, tools and frameworks I am familiar with
 
 [circle]
-* Elixir, Clojure, R, Scheme, Python
-* Phoenix, React, Polymer, Django
+* Clojure, R, Scheme, Python, ELM
+* React, Polymer, Django
+
+Practices and Domains I am comfortable with
+
+[circle]
+* TDD, BDD, Web development, Pairing, Mobbing, Agile Development, SCRUM
+* Secure Development Practices, OAuth, OpenID Connect
+* Mentoring, facilitating workshops, doing talks
 
 == Community
 
 include::community.adoc[]
 
 == Experience
+
+include::prodigyfinance.adoc[]
 
 include::snapscan.adoc[]
 

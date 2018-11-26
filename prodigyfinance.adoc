@@ -1,0 +1,18 @@
+=== Prodigy Finance
+Software Developer ( August 2016 – present )
+
+I am currently a senior developer in the Technical department of Prodigy Finance.
+
+My time at Prodigy Finance was spent well, attending an internal leadership program, participating in decisions around company growth and hosting multiple workshops around software security and developer patterns.
+I have learned a fair amount about scaling teams and handling common growing pains. For a good part of the this year, I shared product ownership responsibilities with a colleague and gained familiarity with the Product Owner role.
+
+Responsibilities include:
+
+[circle]
+* Building and maintaining internal software products
+* Maintain and improve the software infrastructure
+* Teaching other developers by running workshops and pairing/reviewing any work
+* Being available for impediments, to assist where possible
+* Stand in for product or agile roles when required
+* Be available for support when something goes wrong
+* Participate in decisions around company growth
